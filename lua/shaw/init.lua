@@ -1,2 +1,2 @@
 require("shaw.remap")
-print("Blackjack says hello")
+require("shaw.set")
